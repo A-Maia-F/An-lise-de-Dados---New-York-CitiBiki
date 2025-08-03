@@ -12,3 +12,16 @@ Extrair, tratar e analisar dados reais de viagens realizadas com bicicletas comp
 - Matplotlib & Seaborn – visualização de dados
 - Jupyter Notebook – desenvolvimento interativo e exploratório
 - pandas-gbq – integração entre Python e BigQuery
+
+# Tratamento e Transformações
+- Conversão de colunas de data/hora para tipo datetime.
+- Criação da variável "trip_duration_min" para medir duração das viagens.
+- Extração de colunas derivadas: weekday (dia da semana) e hour (hora do início da viagem).
+-Verificação e análise de valores ausentes e estatísticas descritivas.
+
+# Principais Resultados
+- Tempo médio das viagens: ~15 minutos
+- Horários com mais viagens: entre 17h e 19h
+- Dia da semana com mais uso: Quinta-feira
+- Distribuição por gênero: maior uso por homens
+- Duração média: viagens femininas tendem a ser um pouco mais curtas
