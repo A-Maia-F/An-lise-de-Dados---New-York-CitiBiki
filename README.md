@@ -1,4 +1,4 @@
-# Análise de Dados - New York CitiBiki
+# Análise de Dados de Mobilidade Urbana – Citi Bike NYC
 
 Projeto de Análise Exploratória de Dados com base na base pública do sistema de bicicletas compartilhadas Citi Bike da cidade de Nova York, disponível no Google BigQuery.
 
